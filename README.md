@@ -12,7 +12,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -26,8 +26,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
+  
   
 <br/>
 
@@ -45,4 +44,4 @@
 <a href="mailto:kariukivictor315@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marylucyatienoomenda@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Vicky](https://github.com/Marylucy123450)
+⭐️ From [Marylucy](https://github.com/Marylucy123450)

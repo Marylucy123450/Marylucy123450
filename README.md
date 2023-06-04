@@ -4,7 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- - 🎓 &nbsp; Studying  Software Enginnering at Moringa School.
+- - 🎓 &nbsp; Studied  Software Enginnering at Moringa School.
+- - - 🎓 &nbsp;Currently Studing ALX Software Engineering programme
 - 💼 &nbsp; Working as remote developer.
 - 🌱 &nbsp; Learning more about full-stack web development.
 

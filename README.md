@@ -40,9 +40,11 @@
 
 <p align="center">
 </a>
-<a href="https://www.linkedin.com/in/victor-kariuki-40412023a//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marylucy%20Prinz-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/
+linkedin.com/in/marylucy-omenda-318267277
+//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marylucy%20Prinz-blue?style=flat-square&logo=linkedin"></a>
 </a>
-<a href="mailto:kariukivictor315@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marylucyatienoomenda@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:marylucyatienoomenda@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marylucyatienoomenda@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Marylucy](https://github.com/Marylucy123450)

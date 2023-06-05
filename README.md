@@ -4,6 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- I'm passionate about frontend development and looking forward to building my skill level and confidence by creating projects I am passionate about.
 - - 🎓 &nbsp; Studied  Software Enginnering at Moringa School.
 - - - 🎓 &nbsp;Currently Studing ALX Software Engineering programme
 - 💼 &nbsp; Working as remote developer.

@@ -8,8 +8,8 @@
 - - 🎓 &nbsp; Studied  Software Enginnering at Moringa School.
 - - - 🎓 &nbsp;Currently Studing ALX Software Engineering programme
 - 💼 &nbsp; Working as remote developer.
-- 🌱 &nbsp; Learning more about full-stack web development.
-- 🌱 &nbsp; Learning more about Figma.
+- 🌱 &nbsp; Learning more about full-stack web development and Figma.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

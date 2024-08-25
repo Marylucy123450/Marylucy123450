@@ -39,11 +39,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-</a>
-<a href="https://www.linkedin.com/in/
-[Linkedin. com/in/marylucy-omenda-318267277](https://www.linkedin.com/in/marylucy-omenda-318267277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3pK4IfMGQ6mIlYFdvVzRuQ%3D%3D)
-//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marylucy%20Prinz-blue?style=flat-square&logo=linkedin"></a>
-</a>
+
 <a href="mailto:marylucyatienoomenda@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marylucyatienoomenda@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 

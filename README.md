@@ -32,8 +32,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="mailto:marylucyatienoomenda@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-marylucyatienoomenda@gmail.com-blue?style=flat-square&logo=gmail">
+  <a href="mailto:marylucyatieno1@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-marylucyatieno1@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/marylucy-atieno-ba1717336/" target="_blank">

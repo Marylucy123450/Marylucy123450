@@ -37,7 +37,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-marylucyatieno1@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/marylucy-atieno-ba1717336/" target="_blank">
+  <a href="https://www.linkedin.com/in/marylucy-atieno-developer" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin">
   </a>
 </p>
